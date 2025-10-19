@@ -1,0 +1,26 @@
+.
+├── README.md
+├── SETUP_GUIDE.md
+├── backend
+│   └── main.py
+├── database_schema.sql
+├── frontend
+│   ├── index.html
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── src
+│   └── vite.config.js
+├── main.py
+├── outputs
+│   ├── workspace_output_1760382949_9509.txt
+│   ├── workspace_output_1760383721_3144.txt
+│   ├── workspace_output_1760383756_453.txt
+│   ├── workspace_output_1760383769_8194.txt
+│   └── workspace_output_1760383800_4283.txt
+├── requirements.txt
+├── static
+│   ├── assets
+│   └── index.html
+└── todo.md
+
+7 directories, 17 files

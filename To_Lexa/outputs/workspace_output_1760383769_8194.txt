@@ -1,0 +1,13 @@
+
+> technopolis-career-center@1.0.0 build
+> vite build
+
+vite v5.4.20 building for production...
+transforming...
+✓ 1424 modules transformed.
+rendering chunks...
+computing gzip size...
+../static/index.html                   0.75 kB │ gzip:  0.48 kB
+../static/assets/index-DczGumWh.css    8.06 kB │ gzip:  2.23 kB
+../static/assets/index-PxiPF5KE.js   281.16 kB │ gzip: 83.00 kB
+✓ built in 2.57s

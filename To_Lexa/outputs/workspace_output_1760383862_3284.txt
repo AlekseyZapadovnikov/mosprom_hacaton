@@ -1,0 +1,5 @@
+total 8
+drwxr-xr-x 3 root root   38 Oct 13 19:29 .
+drwxr-xr-x 6 root root 4096 Oct 13 19:30 ..
+drwxr-xr-x 2 root root   57 Oct 13 19:29 assets
+-rw-r--r-- 1 root root  775 Oct 13 19:29 index.html
